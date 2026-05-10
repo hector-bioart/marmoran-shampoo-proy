@@ -19,5 +19,3 @@ Las variables medidas en el archivo CSV incluyen:
 
 ## Notas de Procesamiento
 - Los valores de **Promedio** y **Desviación Estándar** fueron redondeados a cifras significativas coherentes con la precisión de los instrumentos de medición.
-- Para reproducir el análisis estadístico de estos datos, referirse a los scripts ubicados en `/notebooks/4.1_caracterizacion_extracto/`.
-
