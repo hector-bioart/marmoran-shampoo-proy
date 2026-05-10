@@ -4,7 +4,7 @@ Este directorio contiene la evidencia fotográfica del procesamiento de las penc
 
 ## Relación de Imágenes y Evidencia Técnica
 
-| Archivo | Descripción Técnica | Relación con Tesis |
+| Archivo | Descripción Técnica | Relación con documento |
 | :--- | :--- | :--- |
 | `corte_pencas_maguey.jpg` | Recepción y corte preliminar de las pencas de *Agave marmorata* retirando las espinas laterales para su manejo seguro en el laboratorio. | Evidencia complementaria (No incluida en el documento). |
 | `extraccion_jugo_crudo.jpg` | Troceado del parénquima y procesamiento para la separación del jugo crudo de la fibra del agave. | Evidencia complementaria. |
