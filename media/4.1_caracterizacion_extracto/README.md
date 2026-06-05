@@ -12,4 +12,4 @@ Este directorio contiene la evidencia fotográfica del procesamiento de las penc
 
 ## Notas de Repositorio
 - Las imágenes aquí almacenadas mantienen su resolución original para futuras consultas o presentaciones.
-- Si la numeración de las figuras en el documento de tesis principal llega a ser modificada, la referencia visual aquí descrita (`extracto_acuoso_estabilizado.jpg`) se mantendrá inalterada para garantizar el rastreo de la imagen.
+- Si la numeración de las figuras en el documento de tesis principal llega a ser modificada, la referencia visual aquí descrita ([`extracto_acuoso_estabilizado.jpg`](./extracto_acuoso_estabilizado.jpg)) se mantendrá inalterada para garantizar el rastreo de la imagen.
