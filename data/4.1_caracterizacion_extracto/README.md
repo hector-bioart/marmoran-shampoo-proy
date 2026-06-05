@@ -4,7 +4,7 @@ Este directorio contiene los datos crudos y procesados correspondientes a la car
 
 ## Estructura de Archivos
 
-- `parametros_fisicoquimicos.csv`: Tabla con las mediciones por triplicado (R1, R2, R3), promedios y desviaciones estándar.
+- [`parametros_fisicoquimicos.csv`](./parametros_fisicoquimicos.csv): Tabla con las mediciones por triplicado (R1, R2, R3), promedios y desviaciones estándar.
 
 ## Diccionario de Datos
 

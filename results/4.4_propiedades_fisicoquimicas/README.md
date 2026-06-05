@@ -33,5 +33,5 @@ Para asegurar una lectura rápida, homogénea y rigurosa por parte del sínodo e
 
 ---
 
-## Notas de Uso en la Memoria de Tesis
+## Notas de Uso en la Memoria de Reporte de residencia
 Las imágenes están exportadas con una resolución estándar óptima para impresión digital directa y escalado vectorial básico sin pérdida de nitidez en procesadores de texto (LaTeX / MS Word).
