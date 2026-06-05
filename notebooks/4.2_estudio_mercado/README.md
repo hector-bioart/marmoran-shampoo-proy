@@ -8,7 +8,7 @@ Este directorio contiene los scripts en Python desarrollados para procesar los d
 
 ## Catálogo de Scripts y Salidas
 
-> **Relación con el documento:** Todas las visualizaciones generadas por estos scripts están referenciadas directamente en el documento del reporte, en la sección **"4.2 Análisis del estudio de mercado y selección de insumos"**.
+> **Relación con el documento:** Todas las visualizaciones generadas por estos scripts están referenciadas directamente en el documento del reporte, en la sección **"4.2 Análisis del estudio de mercado y selección de insumos y en el Anexo B"**.
 
 | Script | Propósito del Análisis | Visualización Generada (`/results/`) |
 | :--- | :--- | :--- |
