@@ -10,5 +10,5 @@ Este directorio contiene el registro fotográfico de las evaluaciones instrument
 | [`comparativa_espuma_altura_tiempo.jpg`](./comparativa_espuma_altura_tiempo.jpg) | Ensayo de capacidad espumante y retención volumétrica. | Evidencia visual del comportamiento de las saponinas del extracto en la generación de espuma, capturando la altura inicial y la estabilidad a lo largo del tiempo de prueba. |
 
 ## Notas de Consulta
-- **Vinculación con la Tesis:** Estas imágenes corresponden a la evidencia práctica del apartado **"4.4 Evaluación de propiedades reológicas, fisicoquímicas y de desempeño"** del documento principal.
-- Los datos cuantitativos extraídos de estas pruebas instrumentales se encuentran tabulados para su análisis estadístico en el directorio [`/data/4.4_propiedades_fisicoquimicas/`](../../data/4.4_propiedades_fisicoquimicas/).
+- **Vinculación con el documento** Estas imágenes corresponden a la evidencia práctica del apartado **"4.4 Evaluación de propiedades reológicas, fisicoquímicas y de desempeño"** del documento principal.
+- Los datos cuantitativos extraídos de estas pruebas instrumentales se encuentran tabulados para su análisis estadístico en el directorio [`/data/4.4_propiedades_fisicoquimicas/`](../../data/4.4_propiedades_fisicoquimicas/)
