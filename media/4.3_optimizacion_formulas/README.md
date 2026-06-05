@@ -1,20 +1,14 @@
-## 4.2 Estudio de Mercado
+# Evidencia Visual: Comportamiento de las Formulaciones (4.3)
 
-Para respaldar el desarrollo del producto, se realizó un análisis comparativo de la oferta actual, evaluando tanto el sector comercial en punto de venta físico como el posicionamiento en plataformas de comercio electrónico.
+Este directorio almacena el registro fotográfico de las pruebas organolépticas y físicas aplicadas a las variantes experimentales (F1 a F4). 
 
-### Análisis en Tiendas Físicas
-Se evaluaron los listados de ingredientes (INCI), propuestas de valor y gramajes de productos comerciales de referencia directa.
+## Relación de Evidencia Técnica
 
-<div align="center">
-  <img src="media/estudio_fisico_01_garnier_etiqueta.png" width="30%" alt="Etiqueta INCI Garnier">
-  <img src="media/estudio_fisico_02_garnier_fructis.png" width="30%" alt="Garnier Fructis Probióticos">
-  <img src="media/estudio_fisico_03_yuya_botanico.png" width="30%" alt="Champú Yuya Botánico">
-</div>
+| Archivo | Descripción de la Fase | Observación Crítica |
+| :--- | :--- | :--- |
+| [`evidencia_f1_desairado.jpg`](./evidencia_f1_desairado.jpg) | Aspecto físico de la formulación base F1 durante el periodo de reposo. | Se documenta una turbidez alta y atrapamiento excesivo de aire (borbujas). |
+| [`evidencia_f3_sedimentacion.jpg`](./evidencia_f3_sedimentacion.jpg) | Evaluación de estabilidad física de la variante F3 con CMC. | Se observa baja retención de burbujas y separación de fases (inestabilidad). |
+| [`evidencia_f4_consistencia.jpg`](./evidencia_f4_consistencia.jpg) | Producto final obtenido mediante la sinergia polimérica optimizada (F4). | Apariencia traslúcida, consistencia homogénea de gel coloidal y fluidez adecuada. |
 
-### Análisis en Tiendas Electrónicas (E-commerce)
-Se analizaron los rangos de precios, ofertas y el posicionamiento de líneas dermatológicas y comerciales en las principales plataformas de venta en línea.
-
-<div align="center">
-  <img src="media/estudio_digital_01_mercadolibre_derma.png" width="45%" alt="Estudio Mercado Libre">
-  <img src="media/estudio_digital_02_walmart_comercial.png" width="45%" alt="Estudio Walmart">
-</div>
+## Notas de Consulta
+Las imágenes complementan los datos tabulados en el archivo [`evolucion_diseno_experimental.csv`](../../data/4.3_diseno_optimizacion/evolucion_diseno_experimental.csv) y permiten verificar visualmente los fenómenos de inestabilidad y éxito reológico descritos en el reporte de tesis.
