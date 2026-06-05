@@ -1,19 +1,19 @@
-# Datos de Caracterización Fisicoquímica (Sección 4.4)
+# Base de Datos: Propiedades Fisicoquímicas, Reológicas y de Desempeño (4.4)
 
-Este directorio contiene las bases de datos en formato crudo (`.csv`) obtenidas de los ensayos analíticos de laboratorio para la formulación optimizada (F4), sus iteraciones previas y el control comercial.
+Este directorio contiene los registros experimentales cuantitativos correspondientes a la evaluación instrumental de las formulaciones de champú a base de *Agave marmorata*.
 
-## Contenido del Directorio
+## Catálogo de Archivos
 
-* **`resultados_reologia.csv`**: Registro de tres réplicas experimentales para el estudio del comportamiento mecánico y de flujo de las muestras:
-    * Densidad ($g/mL$)
-    * Tiempo de flujo ($s$)
-    * Viscosidad Absoluta ($mPa\cdot s$)
-* **`resultados_estabilidad.csv`**: Mediciones del Potencial de Hidrógeno en dos bloques temporales para el control cinético de estabilidad coloidal:
-    * pH inicial (Día 0)
-    * pH final (Post-almacenamiento acelerado a los 120 días bajo 25 °C $\pm$ 3 °C)
-* **`resultados_espuma.csv`**: Evaluación de propiedades interfaciales y capacidad tensioactiva de las muestras seleccionadas (Comercial, F1 y F4):
-    * Altura inicial de la espuma ($cm$)
-    * Tiempo de colapso estructural ($min$)
+| Archivo | Descripción del Contenido |
+| :--- | :--- |
+| [`resultados_estabilidad.csv`](./resultados_estabilidad.csv) | Evaluaciones fisicoquímicas (como pH y conductividad) registradas a lo largo de los periodos de prueba para determinar la estabilidad térmica y física. |
+| [`resultados_reologia.csv`](./resultados_reologia.csv) | Mediciones instrumentales de la viscosidad aparente y el comportamiento de flujo de las diferentes variantes del gel. |
+| [`resultados_espuma.csv`](./resultados_espuma.csv) | Registros de las pruebas de desempeño sobre la capacidad espumante y la retención volumétrica generada por las saponinas. |
 
-## Especificaciones Técnicas
-Las matrices de datos se encuentran estructuradas en filas por réplica independiente y tratamiento. Utilizan codificación de caracteres `latin-1` y separadores de coma estándar, quedando validadas para su consumo automatizado por parte de los scripts estadísticos alojados en la carpeta raíz `/notebooks` del proyecto.
+## Vinculación Estructural y Metodológica
+
+- **Relación con el documento:** Los datos aquí tabulados son el soporte empírico central para los apartados **"4.4 Evaluación de propiedades reológicas, fisicoquímicas y de desempeño"** y **"4.5 Análisis estadístico y validación de la formulación óptima"** del documento.
+- **Análisis Estadístico:** Estos archivos `.csv` están formateados para ser consumidos y procesados automáticamente mediante Análisis de Varianza (ANOVA y pruebas Tukey). 
+
+> **Nota de Navegación:** Para auditar los scripts en Python que realizan la validación estadística de estos datos, diríjase al directorio correspondiente: 
+> 🔗 [`/notebooks/4.4_propiedades_fisicoquimicas/`](../../notebooks/4.4_propiedades_fisicoquimicas/)
