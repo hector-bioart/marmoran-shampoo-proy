@@ -2,6 +2,8 @@
 
 Este directorio contiene las visualizaciones finales que validan la oportunidad de mercado y la diferenciación técnica de la fórmula.
 
+> **Relación con el documento:** Todas las visualizaciones generadas por estos scripts están referenciadas directamente en el documento del reporte, en la sección **"4.2 Análisis del estudio de mercado y selección de insumos"**.
+
 ## Análisis de Gráficas
 
 | Archivo | Conclusión Científica / Comercial |
